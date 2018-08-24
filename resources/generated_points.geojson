@@ -1,0 +1,6505 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.41435876,36.44380451 ]
+    },
+    "properties": {
+    "name":"Noelle Herring",
+    "phone":"(559) 890-0374",
+    "email":"test@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.63923743,32.66829911 ]
+    },
+    "properties": {
+    "name":"Felicia Lambert",
+    "phone":"(527) 774-2766",
+    "email":"noelle_herring@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.24123419,33.40188788 ]
+    },
+    "properties": {
+    "name":"Jesse Stafford",
+    "phone":"(798) 323-9124",
+    "email":"felicia_lambert@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.74181016,41.17476273 ]
+    },
+    "properties": {
+    "name":"Patrice Whitaker",
+    "phone":"(979) 270-9695",
+    "email":"jesse_stafford@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.87749517,40.85358636 ]
+    },
+    "properties": {
+    "name":"Lowell Calderon",
+    "phone":"(847) 710-0468",
+    "email":"patrice_whitaker@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.18229231,40.79998042 ]
+    },
+    "properties": {
+    "name":"Gail Wall",
+    "phone":"(424) 617-5097",
+    "email":"lowell_calderon@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.67321604,42.28722522 ]
+    },
+    "properties": {
+    "name":"Beulah Lin",
+    "phone":"(871) 357-2191",
+    "email":"gail_wall@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.05824653,45.3703312 ]
+    },
+    "properties": {
+    "name":"Katharine Singleton",
+    "phone":"(585) 235-5362",
+    "email":"beulah_lin@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.82937461,32.78349552 ]
+    },
+    "properties": {
+    "name":"Stefanie Aguirre",
+    "phone":"(607) 590-8443",
+    "email":"katharine_singleton@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.80284661,34.78062066 ]
+    },
+    "properties": {
+    "name":"Rachael Decker",
+    "phone":"(620) 727-5784",
+    "email":"stefanie_aguirre@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.06668696,26.19723265 ]
+    },
+    "properties": {
+    "name":"Stanton Mcbride",
+    "phone":"(913) 697-4508",
+    "email":"rachael_decker@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.08717247,37.33753336 ]
+    },
+    "properties": {
+    "name":"Anna Williams",
+    "phone":"(741) 319-3429",
+    "email":"stanton_mcbride@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.71909136,37.55859263 ]
+    },
+    "properties": {
+    "name":"Christoper Conner",
+    "phone":"(788) 501-0741",
+    "email":"anna_williams@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.16824117,39.29357131 ]
+    },
+    "properties": {
+    "name":"Henry Hoffman",
+    "phone":"(646) 843-9968",
+    "email":"christoper_conner@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.14515672,38.5842065 ]
+    },
+    "properties": {
+    "name":"Woodrow Salas",
+    "phone":"(763) 988-8311",
+    "email":"henry_hoffman@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.42429532,47.9268664 ]
+    },
+    "properties": {
+    "name":"Herminia Nunez",
+    "phone":"(510) 631-9707",
+    "email":"woodrow_salas@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.87772562,25.146004 ]
+    },
+    "properties": {
+    "name":"Leon Morales",
+    "phone":"(411) 264-4633",
+    "email":"herminia_nunez@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.49153408,21.55513009 ]
+    },
+    "properties": {
+    "name":"Caitlin Sherman",
+    "phone":"(715) 250-2850",
+    "email":"leon_morales@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.96228837,21.48502449 ]
+    },
+    "properties": {
+    "name":"Jeannette Gray",
+    "phone":"(799) 634-4165",
+    "email":"caitlin_sherman@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.46136578,34.81722821 ]
+    },
+    "properties": {
+    "name":"Alexandria Hendricks",
+    "phone":"(356) 522-1739",
+    "email":"jeannette_gray@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.86656028,24.32770913 ]
+    },
+    "properties": {
+    "name":"Emerson Graves",
+    "phone":"(474) 770-3116",
+    "email":"alexandria_hendricks@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.04554711,38.51706065 ]
+    },
+    "properties": {
+    "name":"Leandro Russo",
+    "phone":"(909) 402-6353",
+    "email":"emerson_graves@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.56981711,44.42050686 ]
+    },
+    "properties": {
+    "name":"Clyde Cummings",
+    "phone":"(671) 390-8362",
+    "email":"leandro_russo@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.36622876,27.80240299 ]
+    },
+    "properties": {
+    "name":"Jordon Rivas",
+    "phone":"(495) 364-9147",
+    "email":"clyde_cummings@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.13991369,41.46900119 ]
+    },
+    "properties": {
+    "name":"Amanda Klein",
+    "phone":"(703) 756-9064",
+    "email":"jordon_rivas@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.15541824,26.48151364 ]
+    },
+    "properties": {
+    "name":"Darwin Horton",
+    "phone":"(925) 414-6428",
+    "email":"amanda_klein@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.97688885,45.36872614 ]
+    },
+    "properties": {
+    "name":"Adrienne Nash",
+    "phone":"(417) 427-1139",
+    "email":"darwin_horton@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.44151678,38.26831054 ]
+    },
+    "properties": {
+    "name":"Ray Villa",
+    "phone":"(555) 497-5388",
+    "email":"adrienne_nash@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.04336884,28.03652322 ]
+    },
+    "properties": {
+    "name":"Rhoda Camacho",
+    "phone":"(404) 631-4973",
+    "email":"ray_villa@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.97929856,35.39158556 ]
+    },
+    "properties": {
+    "name":"Ernestine Tapia",
+    "phone":"(204) 820-8543",
+    "email":"rhoda_camacho@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.79562559,38.98809886 ]
+    },
+    "properties": {
+    "name":"Alphonse Blair",
+    "phone":"(308) 905-1620",
+    "email":"ernestine_tapia@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.8109364,41.22545606 ]
+    },
+    "properties": {
+    "name":"Hoyt Cline",
+    "phone":"(530) 956-3671",
+    "email":"alphonse_blair@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.74607295,23.82789574 ]
+    },
+    "properties": {
+    "name":"Miguel Ware",
+    "phone":"(747) 830-7514",
+    "email":"hoyt_cline@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9683297,45.36738964 ]
+    },
+    "properties": {
+    "name":"Antwan Miller",
+    "phone":"(824) 510-0629",
+    "email":"miguel_ware@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.88950245,41.40143551 ]
+    },
+    "properties": {
+    "name":"Leroy Mcintosh",
+    "phone":"(867) 464-5153",
+    "email":"antwan_miller@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.63712559,30.27477368 ]
+    },
+    "properties": {
+    "name":"Edna Bauer",
+    "phone":"(559) 724-9343",
+    "email":"leroy_mcintosh@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.14513889,36.09846759 ]
+    },
+    "properties": {
+    "name":"Brenton David",
+    "phone":"(904) 693-9317",
+    "email":"edna_bauer@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.37946781,29.11876998 ]
+    },
+    "properties": {
+    "name":"Michele Ryan",
+    "phone":"(308) 647-0791",
+    "email":"brenton_david@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.20252454,37.97017442 ]
+    },
+    "properties": {
+    "name":"Galen Villarreal",
+    "phone":"(857) 560-7946",
+    "email":"michele_ryan@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.23209615,41.95567641 ]
+    },
+    "properties": {
+    "name":"Gabriela Thompson",
+    "phone":"(994) 616-0841",
+    "email":"galen_villarreal@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.08412601,37.00241817 ]
+    },
+    "properties": {
+    "name":"Cristopher Shaffer",
+    "phone":"(981) 571-2917",
+    "email":"gabriela_thompson@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.47502526,32.11925983 ]
+    },
+    "properties": {
+    "name":"Mai Webster",
+    "phone":"(860) 378-2797",
+    "email":"cristopher_shaffer@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.97457671,46.47238988 ]
+    },
+    "properties": {
+    "name":"Tasha York",
+    "phone":"(609) 800-4531",
+    "email":"mai_webster@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.28472589,28.76092385 ]
+    },
+    "properties": {
+    "name":"Jasper Schaefer",
+    "phone":"(463) 324-3047",
+    "email":"tasha_york@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.35948889,34.96771707 ]
+    },
+    "properties": {
+    "name":"Ruben Brandt",
+    "phone":"(875) 863-6845",
+    "email":"jasper_schaefer@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.35485194,21.59786268 ]
+    },
+    "properties": {
+    "name":"Huey Lozano",
+    "phone":"(806) 772-6326",
+    "email":"ruben_brandt@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.73568692,28.38592872 ]
+    },
+    "properties": {
+    "name":"Kelley Mccarthy",
+    "phone":"(662) 921-9981",
+    "email":"huey_lozano@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.29297558,32.66955589 ]
+    },
+    "properties": {
+    "name":"Arturo Booth",
+    "phone":"(691) 956-1338",
+    "email":"kelley_mccarthy@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.21250615,33.37189991 ]
+    },
+    "properties": {
+    "name":"Modesto Phillips",
+    "phone":"(490) 688-9732",
+    "email":"arturo_booth@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.29507665,24.5764477 ]
+    },
+    "properties": {
+    "name":"Marvin Fuentes",
+    "phone":"(907) 685-6694",
+    "email":"modesto_phillips@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.06121473,36.93242959 ]
+    },
+    "properties": {
+    "name":"Terra Gates",
+    "phone":"(842) 547-7512",
+    "email":"marvin_fuentes@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.41753088,39.66070787 ]
+    },
+    "properties": {
+    "name":"Isabella Nielsen",
+    "phone":"(975) 409-5389",
+    "email":"terra_gates@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.39782223,24.92391889 ]
+    },
+    "properties": {
+    "name":"Loren Kelly",
+    "phone":"(810) 622-1949",
+    "email":"isabella_nielsen@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.2984399,41.99562666 ]
+    },
+    "properties": {
+    "name":"Esteban Lawson",
+    "phone":"(673) 896-0314",
+    "email":"loren_kelly@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.19066573,21.9471814 ]
+    },
+    "properties": {
+    "name":"Lynne Marsh",
+    "phone":"(405) 881-9446",
+    "email":"esteban_lawson@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.82993534,37.29385306 ]
+    },
+    "properties": {
+    "name":"Nelda Myers",
+    "phone":"(982) 673-8315",
+    "email":"lynne_marsh@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.18343212,25.58512534 ]
+    },
+    "properties": {
+    "name":"Dewey Benitez",
+    "phone":"(750) 993-9152",
+    "email":"nelda_myers@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.74639867,37.49297722 ]
+    },
+    "properties": {
+    "name":"Jerry Bean",
+    "phone":"(299) 900-0942",
+    "email":"dewey_benitez@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.52939159,30.24205817 ]
+    },
+    "properties": {
+    "name":"Dustin Wallace",
+    "phone":"(526) 411-2260",
+    "email":"jerry_bean@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.71257105,36.75968363 ]
+    },
+    "properties": {
+    "name":"Timothy Avila",
+    "phone":"(388) 576-0880",
+    "email":"dustin_wallace@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.39868565,26.6339671 ]
+    },
+    "properties": {
+    "name":"Harriett Mora",
+    "phone":"(901) 201-3346",
+    "email":"timothy_avila@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.40370688,24.22046222 ]
+    },
+    "properties": {
+    "name":"Penelope Key",
+    "phone":"(657) 367-9015",
+    "email":"harriett_mora@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.59406631,28.96365428 ]
+    },
+    "properties": {
+    "name":"Fredrick Mcfarland",
+    "phone":"(641) 593-6424",
+    "email":"penelope_key@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.97773009,31.72886347 ]
+    },
+    "properties": {
+    "name":"Shannon Marquez",
+    "phone":"(519) 907-8580",
+    "email":"fredrick_mcfarland@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.15458599,37.34197813 ]
+    },
+    "properties": {
+    "name":"Deidre Middleton",
+    "phone":"(305) 435-9681",
+    "email":"shannon_marquez@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.24164002,30.78738936 ]
+    },
+    "properties": {
+    "name":"Chang Santiago",
+    "phone":"(891) 577-6005",
+    "email":"deidre_middleton@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.86106025,37.83236258 ]
+    },
+    "properties": {
+    "name":"Brendan Pacheco",
+    "phone":"(987) 988-4048",
+    "email":"chang_santiago@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.35598946,39.65601886 ]
+    },
+    "properties": {
+    "name":"Wilton Weeks",
+    "phone":"(258) 911-9555",
+    "email":"brendan_pacheco@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.54748481,23.62641407 ]
+    },
+    "properties": {
+    "name":"Horacio Schmidt",
+    "phone":"(691) 223-3534",
+    "email":"wilton_weeks@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.96126239,31.2627419 ]
+    },
+    "properties": {
+    "name":"Stacy Phelps",
+    "phone":"(919) 704-4122",
+    "email":"horacio_schmidt@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.76171418,28.45036129 ]
+    },
+    "properties": {
+    "name":"Georgina Baird",
+    "phone":"(774) 240-9565",
+    "email":"stacy_phelps@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.67291733,28.76644902 ]
+    },
+    "properties": {
+    "name":"Minnie Caldwell",
+    "phone":"(224) 883-5310",
+    "email":"georgina_baird@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.10108429,39.2588865 ]
+    },
+    "properties": {
+    "name":"Ned Petersen",
+    "phone":"(549) 449-9206",
+    "email":"minnie_caldwell@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.05790692,39.48848662 ]
+    },
+    "properties": {
+    "name":"Lon Huffman",
+    "phone":"(390) 621-8517",
+    "email":"ned_petersen@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.71032088,30.06831747 ]
+    },
+    "properties": {
+    "name":"Hollis Alvarez",
+    "phone":"(787) 413-6528",
+    "email":"lon_huffman@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.79422936,42.28979749 ]
+    },
+    "properties": {
+    "name":"Ellen Horne",
+    "phone":"(960) 799-3033",
+    "email":"hollis_alvarez@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.24743902,29.34407226 ]
+    },
+    "properties": {
+    "name":"Nadine Nolan",
+    "phone":"(609) 851-6715",
+    "email":"ellen_horne@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.56050045,27.85296697 ]
+    },
+    "properties": {
+    "name":"Gerry Mckinney",
+    "phone":"(218) 672-3486",
+    "email":"nadine_nolan@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.54504155,24.46800162 ]
+    },
+    "properties": {
+    "name":"Sheena Evans",
+    "phone":"(257) 653-0001",
+    "email":"gerry_mckinney@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.06557064,43.50164561 ]
+    },
+    "properties": {
+    "name":"Mindy Mendez",
+    "phone":"(552) 756-3531",
+    "email":"sheena_evans@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.92927685,43.4368538 ]
+    },
+    "properties": {
+    "name":"Mauricio Knox",
+    "phone":"(750) 567-6629",
+    "email":"mindy_mendez@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.26501359,25.90112843 ]
+    },
+    "properties": {
+    "name":"Man Waller",
+    "phone":"(529) 355-8542",
+    "email":"mauricio_knox@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.8695212,27.18681004 ]
+    },
+    "properties": {
+    "name":"Logan Chan",
+    "phone":"(790) 550-0468",
+    "email":"man_waller@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.97299104,22.59128502 ]
+    },
+    "properties": {
+    "name":"Shanna Hensley",
+    "phone":"(615) 372-6033",
+    "email":"logan_chan@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.26568945,38.8896509 ]
+    },
+    "properties": {
+    "name":"Harland Terrell",
+    "phone":"(749) 950-3293",
+    "email":"shanna_hensley@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.42130126,44.96301799 ]
+    },
+    "properties": {
+    "name":"Jeromy Travis",
+    "phone":"(622) 461-9728",
+    "email":"harland_terrell@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.85915236,25.56389823 ]
+    },
+    "properties": {
+    "name":"Judith Castro",
+    "phone":"(835) 475-9229",
+    "email":"jeromy_travis@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.79603088,28.93231549 ]
+    },
+    "properties": {
+    "name":"Margery Bush",
+    "phone":"(584) 925-4541",
+    "email":"judith_castro@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.75920928,21.14554647 ]
+    },
+    "properties": {
+    "name":"Rodrigo Ewing",
+    "phone":"(939) 388-8921",
+    "email":"margery_bush@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.65626215,44.29372096 ]
+    },
+    "properties": {
+    "name":"Virgil Suarez",
+    "phone":"(825) 834-8457",
+    "email":"rodrigo_ewing@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.76844977,30.33166349 ]
+    },
+    "properties": {
+    "name":"Brent Berry",
+    "phone":"(613) 574-6231",
+    "email":"virgil_suarez@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.44958865,40.59156735 ]
+    },
+    "properties": {
+    "name":"Manuela Dean",
+    "phone":"(340) 800-6411",
+    "email":"brent_berry@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.12633696,36.70339447 ]
+    },
+    "properties": {
+    "name":"Eileen Larson",
+    "phone":"(209) 561-3683",
+    "email":"manuela_dean@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.26606094,34.22075211 ]
+    },
+    "properties": {
+    "name":"Numbers Torres",
+    "phone":"(633) 532-9755",
+    "email":"eileen_larson@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.30662698,27.70611724 ]
+    },
+    "properties": {
+    "name":"Milford Sharp",
+    "phone":"(824) 714-2034",
+    "email":"numbers_torres@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.8814797,33.40245361 ]
+    },
+    "properties": {
+    "name":"Joni Mccullough",
+    "phone":"(642) 296-0508",
+    "email":"milford_sharp@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.40368127,33.07947339 ]
+    },
+    "properties": {
+    "name":"Ike Odonnell",
+    "phone":"(959) 920-4642",
+    "email":"joni_mccullough@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.7232404,45.92393399 ]
+    },
+    "properties": {
+    "name":"Marilyn Hubbard",
+    "phone":"(329) 561-3648",
+    "email":"ike_odonnell@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.09398984,28.53858774 ]
+    },
+    "properties": {
+    "name":"Freddy Ferrell",
+    "phone":"(289) 980-8871",
+    "email":"marilyn_hubbard@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.87521502,26.46488774 ]
+    },
+    "properties": {
+    "name":"Shelly Dunn",
+    "phone":"(922) 911-4762",
+    "email":"freddy_ferrell@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.85925203,36.70374698 ]
+    },
+    "properties": {
+    "name":"Haywood Singh",
+    "phone":"(647) 665-4286",
+    "email":"shelly_dunn@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.25163182,30.15625432 ]
+    },
+    "properties": {
+    "name":"Mitch Underwood",
+    "phone":"(762) 478-4273",
+    "email":"haywood_singh@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.68404825,23.64922338 ]
+    },
+    "properties": {
+    "name":"Andrea Glover",
+    "phone":"(405) 666-3905",
+    "email":"mitch_underwood@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.99624367,45.34285678 ]
+    },
+    "properties": {
+    "name":"Jacinto Mcdonald",
+    "phone":"(387) 266-4162",
+    "email":"andrea_glover@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.08152859,40.64826988 ]
+    },
+    "properties": {
+    "name":"Grace Schneider",
+    "phone":"(757) 824-0981",
+    "email":"jacinto_mcdonald@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.10897794,32.66517017 ]
+    },
+    "properties": {
+    "name":"Alyce Hammond",
+    "phone":"(401) 256-8300",
+    "email":"grace_schneider@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.69262648,36.82244781 ]
+    },
+    "properties": {
+    "name":"Jacqueline Malone",
+    "phone":"(531) 474-0892",
+    "email":"alyce_hammond@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.6178112,30.85502832 ]
+    },
+    "properties": {
+    "name":"Tanisha Chase",
+    "phone":"(290) 637-4697",
+    "email":"jacqueline_malone@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.2712659,33.73309326 ]
+    },
+    "properties": {
+    "name":"Cody Copeland",
+    "phone":"(401) 898-4613",
+    "email":"tanisha_chase@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.66789383,37.44344093 ]
+    },
+    "properties": {
+    "name":"Alfonzo Nguyen",
+    "phone":"(925) 648-8005",
+    "email":"cody_copeland@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.82416783,36.51431166 ]
+    },
+    "properties": {
+    "name":"Roxie Herman",
+    "phone":"(489) 861-4617",
+    "email":"alfonzo_nguyen@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.55215368,38.63956955 ]
+    },
+    "properties": {
+    "name":"Burl Stanton",
+    "phone":"(985) 279-7499",
+    "email":"roxie_herman@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.91559928,39.51975803 ]
+    },
+    "properties": {
+    "name":"Osvaldo Potts",
+    "phone":"(550) 482-7075",
+    "email":"burl_stanton@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.57784075,32.48286171 ]
+    },
+    "properties": {
+    "name":"Adele Gordon",
+    "phone":"(578) 274-3276",
+    "email":"osvaldo_potts@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.43339654,40.14545552 ]
+    },
+    "properties": {
+    "name":"Lillian Doyle",
+    "phone":"(523) 787-0200",
+    "email":"adele_gordon@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.30365553,46.71628086 ]
+    },
+    "properties": {
+    "name":"Amado Newman",
+    "phone":"(331) 616-3715",
+    "email":"lillian_doyle@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.209313,32.61873666 ]
+    },
+    "properties": {
+    "name":"Cristobal Duke",
+    "phone":"(576) 676-9324",
+    "email":"amado_newman@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.36860811,37.47674964 ]
+    },
+    "properties": {
+    "name":"Vaughn Bass",
+    "phone":"(587) 950-4550",
+    "email":"cristobal_duke@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.59201848,39.6544096 ]
+    },
+    "properties": {
+    "name":"Thurman Parks",
+    "phone":"(907) 508-7763",
+    "email":"vaughn_bass@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.84632887,45.74049287 ]
+    },
+    "properties": {
+    "name":"Isaac Kennedy",
+    "phone":"(634) 389-5810",
+    "email":"thurman_parks@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.11933118,37.17771837 ]
+    },
+    "properties": {
+    "name":"Jeffry Floyd",
+    "phone":"(996) 391-4157",
+    "email":"isaac_kennedy@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.18638245,29.39689689 ]
+    },
+    "properties": {
+    "name":"John Fisher",
+    "phone":"(314) 484-6133",
+    "email":"jeffry_floyd@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.03081497,46.81353579 ]
+    },
+    "properties": {
+    "name":"Wilfred Tate",
+    "phone":"(530) 717-9508",
+    "email":"john_fisher@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.20000504,26.79693006 ]
+    },
+    "properties": {
+    "name":"Sherrie Shannon",
+    "phone":"(746) 606-2838",
+    "email":"wilfred_tate@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.52201131,46.66066232 ]
+    },
+    "properties": {
+    "name":"Hipolito Pennington",
+    "phone":"(548) 668-5971",
+    "email":"sherrie_shannon@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.16679595,21.88557901 ]
+    },
+    "properties": {
+    "name":"Liza Griffith",
+    "phone":"(389) 930-3532",
+    "email":"hipolito_pennington@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.84437697,38.37196578 ]
+    },
+    "properties": {
+    "name":"Ina Murray",
+    "phone":"(543) 734-3362",
+    "email":"liza_griffith@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.01489613,34.39810755 ]
+    },
+    "properties": {
+    "name":"Carey Gomez",
+    "phone":"(333) 966-7990",
+    "email":"ina_murray@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.04400627,23.08743474 ]
+    },
+    "properties": {
+    "name":"Sanford Farley",
+    "phone":"(950) 589-2587",
+    "email":"carey_gomez@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.86133739,29.43880361 ]
+    },
+    "properties": {
+    "name":"Carly Giles",
+    "phone":"(899) 317-9390",
+    "email":"sanford_farley@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.07063063,39.30593146 ]
+    },
+    "properties": {
+    "name":"Danilo Bradley",
+    "phone":"(512) 237-3490",
+    "email":"carly_giles@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.48131232,30.9382377 ]
+    },
+    "properties": {
+    "name":"Brain Cook",
+    "phone":"(962) 917-2500",
+    "email":"danilo_bradley@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.00390284,25.38834374 ]
+    },
+    "properties": {
+    "name":"Glenna Atkinson",
+    "phone":"(962) 254-8915",
+    "email":"brain_cook@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.72773287,35.82239705 ]
+    },
+    "properties": {
+    "name":"Julia Daniels",
+    "phone":"(360) 220-2756",
+    "email":"glenna_atkinson@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.19479486,42.29823677 ]
+    },
+    "properties": {
+    "name":"Lorena Patrick",
+    "phone":"(690) 862-6796",
+    "email":"julia_daniels@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.68167931,30.62432793 ]
+    },
+    "properties": {
+    "name":"Michale Mueller",
+    "phone":"(201) 549-8656",
+    "email":"lorena_patrick@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.83489168,37.07182265 ]
+    },
+    "properties": {
+    "name":"Lillie Barrett",
+    "phone":"(603) 471-9279",
+    "email":"michale_mueller@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.31039342,25.09400043 ]
+    },
+    "properties": {
+    "name":"Rueben Matthews",
+    "phone":"(449) 815-6581",
+    "email":"lillie_barrett@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.95696416,40.711107 ]
+    },
+    "properties": {
+    "name":"Joey Pham",
+    "phone":"(715) 865-5598",
+    "email":"rueben_matthews@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.17899932,33.60316998 ]
+    },
+    "properties": {
+    "name":"Russell Beasley",
+    "phone":"(423) 999-7362",
+    "email":"joey_pham@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.16132663,46.66337788 ]
+    },
+    "properties": {
+    "name":"June Haley",
+    "phone":"(671) 866-3870",
+    "email":"russell_beasley@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.86001826,27.9180377 ]
+    },
+    "properties": {
+    "name":"Julius Bruce",
+    "phone":"(975) 565-3609",
+    "email":"june_haley@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.48528177,39.6803786 ]
+    },
+    "properties": {
+    "name":"Jerrell Higgins",
+    "phone":"(313) 488-0037",
+    "email":"julius_bruce@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.24133957,40.12612036 ]
+    },
+    "properties": {
+    "name":"Gay Berg",
+    "phone":"(724) 927-9192",
+    "email":"jerrell_higgins@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.9306137,45.77229229 ]
+    },
+    "properties": {
+    "name":"Chelsea Riggs",
+    "phone":"(797) 588-1082",
+    "email":"gay_berg@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.63478096,47.96822248 ]
+    },
+    "properties": {
+    "name":"Gordon Mckenzie",
+    "phone":"(481) 436-4168",
+    "email":"chelsea_riggs@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.88928268,37.9700665 ]
+    },
+    "properties": {
+    "name":"Jamie Rasmussen",
+    "phone":"(285) 566-6937",
+    "email":"gordon_mckenzie@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.07227364,28.98082161 ]
+    },
+    "properties": {
+    "name":"Manuel Beck",
+    "phone":"(490) 229-8024",
+    "email":"jamie_rasmussen@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.40891284,31.3382639 ]
+    },
+    "properties": {
+    "name":"Cecelia Butler",
+    "phone":"(274) 491-9466",
+    "email":"manuel_beck@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.20544017,40.38063051 ]
+    },
+    "properties": {
+    "name":"Dwayne Madden",
+    "phone":"(694) 338-5774",
+    "email":"cecelia_butler@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.77207739,39.56271108 ]
+    },
+    "properties": {
+    "name":"Parker Cooley",
+    "phone":"(356) 478-6401",
+    "email":"dwayne_madden@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.37296845,46.79749958 ]
+    },
+    "properties": {
+    "name":"Kurt Shah",
+    "phone":"(960) 295-4750",
+    "email":"parker_cooley@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.07930318,39.09773011 ]
+    },
+    "properties": {
+    "name":"Cleo Mcclain",
+    "phone":"(873) 603-0704",
+    "email":"kurt_shah@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.7087738,28.7775848 ]
+    },
+    "properties": {
+    "name":"Curtis Conrad",
+    "phone":"(932) 820-7189",
+    "email":"cleo_mcclain@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.45639663,37.61128359 ]
+    },
+    "properties": {
+    "name":"Valerie Adkins",
+    "phone":"(567) 226-4428",
+    "email":"curtis_conrad@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.19195092,27.81548765 ]
+    },
+    "properties": {
+    "name":"Rodrick Ponce",
+    "phone":"(434) 555-0525",
+    "email":"valerie_adkins@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.59638647,48.65247714 ]
+    },
+    "properties": {
+    "name":"Jeffery Page",
+    "phone":"(299) 311-7653",
+    "email":"rodrick_ponce@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.69900826,39.23718751 ]
+    },
+    "properties": {
+    "name":"Edmundo Sutton",
+    "phone":"(353) 379-5044",
+    "email":"jeffery_page@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.97832384,34.28508476 ]
+    },
+    "properties": {
+    "name":"Patricia Cox",
+    "phone":"(439) 344-9156",
+    "email":"edmundo_sutton@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.11734332,37.83046435 ]
+    },
+    "properties": {
+    "name":"Cherie Knapp",
+    "phone":"(831) 682-4561",
+    "email":"patricia_cox@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.61416048,34.87923772 ]
+    },
+    "properties": {
+    "name":"Selena Weber",
+    "phone":"(766) 625-5458",
+    "email":"cherie_knapp@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.25992241,29.82353383 ]
+    },
+    "properties": {
+    "name":"Sterling Clements",
+    "phone":"(782) 714-6926",
+    "email":"selena_weber@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.97371309,25.48710427 ]
+    },
+    "properties": {
+    "name":"Holly Abbott",
+    "phone":"(483) 689-3584",
+    "email":"sterling_clements@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.94649914,38.66190697 ]
+    },
+    "properties": {
+    "name":"Laurence Chandler",
+    "phone":"(512) 202-9174",
+    "email":"holly_abbott@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.52471247,33.78053863 ]
+    },
+    "properties": {
+    "name":"Ann Wolf",
+    "phone":"(726) 391-6637",
+    "email":"laurence_chandler@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.23976032,46.77080114 ]
+    },
+    "properties": {
+    "name":"Ramona Richards",
+    "phone":"(253) 563-0462",
+    "email":"ann_wolf@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.65751064,33.26614869 ]
+    },
+    "properties": {
+    "name":"Kent Richmond",
+    "phone":"(957) 687-7154",
+    "email":"ramona_richards@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.76533606,36.5175186 ]
+    },
+    "properties": {
+    "name":"Greg Ballard",
+    "phone":"(316) 921-7234",
+    "email":"kent_richmond@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.36160439,33.68651741 ]
+    },
+    "properties": {
+    "name":"Fermin Meyer",
+    "phone":"(303) 982-1365",
+    "email":"greg_ballard@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.60198015,40.71488599 ]
+    },
+    "properties": {
+    "name":"Aldo Bird",
+    "phone":"(601) 528-2647",
+    "email":"fermin_meyer@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.86964696,34.81607564 ]
+    },
+    "properties": {
+    "name":"Christopher Hinton",
+    "phone":"(596) 346-2471",
+    "email":"aldo_bird@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.10721654,34.79279034 ]
+    },
+    "properties": {
+    "name":"Chet Wilkerson",
+    "phone":"(358) 662-1381",
+    "email":"christopher_hinton@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.99842772,31.99987674 ]
+    },
+    "properties": {
+    "name":"Noel Moon",
+    "phone":"(681) 603-6690",
+    "email":"chet_wilkerson@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.98014915,25.54470963 ]
+    },
+    "properties": {
+    "name":"Xavier Alvarado",
+    "phone":"(509) 869-6935",
+    "email":"noel_moon@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.72838568,29.51123509 ]
+    },
+    "properties": {
+    "name":"Albert Mckee",
+    "phone":"(266) 759-3762",
+    "email":"xavier_alvarado@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.22718377,46.03833865 ]
+    },
+    "properties": {
+    "name":"Ralph Mullen",
+    "phone":"(582) 645-7578",
+    "email":"albert_mckee@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.02326962,40.99808114 ]
+    },
+    "properties": {
+    "name":"Greta Park",
+    "phone":"(930) 747-1656",
+    "email":"ralph_mullen@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.41000553,42.55982654 ]
+    },
+    "properties": {
+    "name":"Rico Saunders",
+    "phone":"(900) 447-7055",
+    "email":"greta_park@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.7939037,35.84070288 ]
+    },
+    "properties": {
+    "name":"Nikki Nixon",
+    "phone":"(620) 655-0763",
+    "email":"rico_saunders@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.61793988,33.22811307 ]
+    },
+    "properties": {
+    "name":"Perry Wheeler",
+    "phone":"(514) 768-9108",
+    "email":"nikki_nixon@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.52075386,31.02759759 ]
+    },
+    "properties": {
+    "name":"Shirley Sims",
+    "phone":"(383) 841-7463",
+    "email":"perry_wheeler@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.47911371,22.61048254 ]
+    },
+    "properties": {
+    "name":"Elisha Carrillo",
+    "phone":"(423) 472-6287",
+    "email":"shirley_sims@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.28578099,44.52257668 ]
+    },
+    "properties": {
+    "name":"Cordell Wong",
+    "phone":"(926) 351-5150",
+    "email":"elisha_carrillo@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.35578119,25.833501 ]
+    },
+    "properties": {
+    "name":"Edwardo Reed",
+    "phone":"(281) 827-7127",
+    "email":"cordell_wong@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.23518809,47.40924974 ]
+    },
+    "properties": {
+    "name":"Jerrold Arroyo",
+    "phone":"(298) 891-4421",
+    "email":"edwardo_reed@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.06278601,44.81634535 ]
+    },
+    "properties": {
+    "name":"Wilber Fields",
+    "phone":"(234) 312-7222",
+    "email":"jerrold_arroyo@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.64239972,32.37497398 ]
+    },
+    "properties": {
+    "name":"Jessie Diaz",
+    "phone":"(338) 213-5232",
+    "email":"wilber_fields@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.56840043,39.50020293 ]
+    },
+    "properties": {
+    "name":"Quinn Young",
+    "phone":"(703) 571-8096",
+    "email":"jessie_diaz@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.30625494,28.98116483 ]
+    },
+    "properties": {
+    "name":"Max Hicks",
+    "phone":"(451) 514-4063",
+    "email":"quinn_young@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.81856259,47.33808227 ]
+    },
+    "properties": {
+    "name":"Maxine Gutierrez",
+    "phone":"(211) 344-5311",
+    "email":"max_hicks@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.42671773,39.09765093 ]
+    },
+    "properties": {
+    "name":"Ronny Walsh",
+    "phone":"(534) 288-4620",
+    "email":"maxine_gutierrez@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.5251046,29.39987599 ]
+    },
+    "properties": {
+    "name":"Mckinley Holland",
+    "phone":"(257) 305-1162",
+    "email":"ronny_walsh@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.441501,27.88553319 ]
+    },
+    "properties": {
+    "name":"Martin Novak",
+    "phone":"(996) 227-6145",
+    "email":"mckinley_holland@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.43834932,41.14072945 ]
+    },
+    "properties": {
+    "name":"Larry Rosales",
+    "phone":"(875) 596-1894",
+    "email":"martin_novak@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.50673303,31.85178751 ]
+    },
+    "properties": {
+    "name":"Yolanda Lopez",
+    "phone":"(290) 581-8899",
+    "email":"larry_rosales@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.35208654,27.62770703 ]
+    },
+    "properties": {
+    "name":"Andre Gamble",
+    "phone":"(432) 405-3558",
+    "email":"yolanda_lopez@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.84973166,29.80449092 ]
+    },
+    "properties": {
+    "name":"Lenny Stout",
+    "phone":"(847) 993-2523",
+    "email":"andre_gamble@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.58302985,38.04840768 ]
+    },
+    "properties": {
+    "name":"Sammie Castaneda",
+    "phone":"(907) 222-0247",
+    "email":"lenny_stout@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.76003311,36.60679617 ]
+    },
+    "properties": {
+    "name":"Rhett Pollard",
+    "phone":"(648) 241-3689",
+    "email":"sammie_castaneda@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.82522031,37.41262912 ]
+    },
+    "properties": {
+    "name":"Christy Norris",
+    "phone":"(757) 689-3526",
+    "email":"rhett_pollard@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.38949352,39.46519047 ]
+    },
+    "properties": {
+    "name":"Jill Barnes",
+    "phone":"(584) 769-3418",
+    "email":"christy_norris@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.38112533,32.32494327 ]
+    },
+    "properties": {
+    "name":"Clayton Mooney",
+    "phone":"(879) 943-1738",
+    "email":"jill_barnes@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.20216534,24.11165396 ]
+    },
+    "properties": {
+    "name":"Callie Buchanan",
+    "phone":"(803) 944-2163",
+    "email":"clayton_mooney@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.25310414,28.31823903 ]
+    },
+    "properties": {
+    "name":"Nita Cantrell",
+    "phone":"(305) 977-8783",
+    "email":"callie_buchanan@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.64336652,33.7461116 ]
+    },
+    "properties": {
+    "name":"Jeannine Gallegos",
+    "phone":"(907) 846-2136",
+    "email":"nita_cantrell@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.06305524,31.84897789 ]
+    },
+    "properties": {
+    "name":"Phillip Hansen",
+    "phone":"(618) 721-2479",
+    "email":"jeannine_gallegos@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.12637088,46.62376141 ]
+    },
+    "properties": {
+    "name":"Clinton Howell",
+    "phone":"(867) 754-6141",
+    "email":"phillip_hansen@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.65453263,38.64890339 ]
+    },
+    "properties": {
+    "name":"Rose French",
+    "phone":"(639) 607-5722",
+    "email":"clinton_howell@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.54265657,41.14412846 ]
+    },
+    "properties": {
+    "name":"Karyn Keller",
+    "phone":"(743) 742-0790",
+    "email":"rose_french@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.46006189,26.22201477 ]
+    },
+    "properties": {
+    "name":"Maricela Holt",
+    "phone":"(468) 732-9481",
+    "email":"karyn_keller@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.08251026,42.79342968 ]
+    },
+    "properties": {
+    "name":"Orville Hampton",
+    "phone":"(897) 589-5957",
+    "email":"maricela_holt@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.85438519,47.62325878 ]
+    },
+    "properties": {
+    "name":"Antonia Mayo",
+    "phone":"(858) 365-4189",
+    "email":"orville_hampton@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.70399628,29.84293221 ]
+    },
+    "properties": {
+    "name":"Joan Bryant",
+    "phone":"(985) 592-2280",
+    "email":"antonia_mayo@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.358225,30.31361216 ]
+    },
+    "properties": {
+    "name":"Marco Smith",
+    "phone":"(800) 487-7592",
+    "email":"joan_bryant@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.96360506,42.64096304 ]
+    },
+    "properties": {
+    "name":"Luther Moody",
+    "phone":"(585) 402-5581",
+    "email":"marco_smith@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.38166999,29.91296955 ]
+    },
+    "properties": {
+    "name":"Clifford Clay",
+    "phone":"(379) 450-0393",
+    "email":"luther_moody@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.69430578,26.16630972 ]
+    },
+    "properties": {
+    "name":"Dennis Daniel",
+    "phone":"(929) 488-0326",
+    "email":"clifford_clay@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.15608101,36.3766509 ]
+    },
+    "properties": {
+    "name":"Alta Pierce",
+    "phone":"(687) 569-1336",
+    "email":"dennis_daniel@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.61086986,43.3072928 ]
+    },
+    "properties": {
+    "name":"Eloise Andrade",
+    "phone":"(519) 737-9127",
+    "email":"alta_pierce@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.22760088,44.15050893 ]
+    },
+    "properties": {
+    "name":"Vernon Frazier",
+    "phone":"(848) 227-8182",
+    "email":"eloise_andrade@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.88482406,27.08595355 ]
+    },
+    "properties": {
+    "name":"Rosella Mills",
+    "phone":"(391) 831-9795",
+    "email":"vernon_frazier@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.92156465,37.78279967 ]
+    },
+    "properties": {
+    "name":"Mitchell Andersen",
+    "phone":"(302) 314-0967",
+    "email":"rosella_mills@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.88435191,37.49620582 ]
+    },
+    "properties": {
+    "name":"Derrick Vazquez",
+    "phone":"(257) 646-5827",
+    "email":"mitchell_andersen@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.67952547,33.69757736 ]
+    },
+    "properties": {
+    "name":"Norman Robertson",
+    "phone":"(622) 250-2722",
+    "email":"derrick_vazquez@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.01351208,47.08911325 ]
+    },
+    "properties": {
+    "name":"Carole Sparks",
+    "phone":"(678) 926-7861",
+    "email":"norman_robertson@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.72011004,32.89076427 ]
+    },
+    "properties": {
+    "name":"Cameron Potter",
+    "phone":"(302) 732-0033",
+    "email":"carole_sparks@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.1923683,39.73038433 ]
+    },
+    "properties": {
+    "name":"Heidi Barry",
+    "phone":"(792) 451-0109",
+    "email":"cameron_potter@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.00376736,34.05703835 ]
+    },
+    "properties": {
+    "name":"Malik Friedman",
+    "phone":"(966) 592-3873",
+    "email":"heidi_barry@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.85136986,27.20424561 ]
+    },
+    "properties": {
+    "name":"Barrett Castillo",
+    "phone":"(433) 388-1886",
+    "email":"malik_friedman@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.57471745,31.45150108 ]
+    },
+    "properties": {
+    "name":"Darnell Liu",
+    "phone":"(461) 711-8838",
+    "email":"barrett_castillo@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.84878952,34.93064032 ]
+    },
+    "properties": {
+    "name":"Carlene Mcclure",
+    "phone":"(326) 270-4322",
+    "email":"darnell_liu@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.69244812,28.7942322 ]
+    },
+    "properties": {
+    "name":"Leif Santana",
+    "phone":"(284) 966-2445",
+    "email":"carlene_mcclure@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.63042314,25.58714683 ]
+    },
+    "properties": {
+    "name":"Enid Byrd",
+    "phone":"(846) 830-6248",
+    "email":"leif_santana@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.51299192,31.30025462 ]
+    },
+    "properties": {
+    "name":"Pearlie Edwards",
+    "phone":"(622) 520-2484",
+    "email":"enid_byrd@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.73778391,30.64627151 ]
+    },
+    "properties": {
+    "name":"Spencer Oconnor",
+    "phone":"(469) 636-0700",
+    "email":"pearlie_edwards@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.74184627,33.36851825 ]
+    },
+    "properties": {
+    "name":"Philip Garrison",
+    "phone":"(867) 326-7601",
+    "email":"spencer_oconnor@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.06228881,41.98748201 ]
+    },
+    "properties": {
+    "name":"Melinda Roth",
+    "phone":"(677) 619-1522",
+    "email":"philip_garrison@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.79588981,36.62844064 ]
+    },
+    "properties": {
+    "name":"Danny Hendrix",
+    "phone":"(275) 995-1747",
+    "email":"melinda_roth@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.48685633,37.70093404 ]
+    },
+    "properties": {
+    "name":"Bonita Gonzalez",
+    "phone":"(555) 562-9860",
+    "email":"danny_hendrix@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.5094716,34.67478875 ]
+    },
+    "properties": {
+    "name":"Scott Mathews",
+    "phone":"(251) 266-0409",
+    "email":"bonita_gonzalez@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.38597145,34.39804168 ]
+    },
+    "properties": {
+    "name":"Jerold Sampson",
+    "phone":"(741) 778-5255",
+    "email":"scott_mathews@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.1605411,47.30882608 ]
+    },
+    "properties": {
+    "name":"Dora Gilmore",
+    "phone":"(861) 980-1560",
+    "email":"jerold_sampson@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.55700133,33.38102177 ]
+    },
+    "properties": {
+    "name":"Alicia Hardy",
+    "phone":"(469) 882-1445",
+    "email":"dora_gilmore@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.51250006,21.23298868 ]
+    },
+    "properties": {
+    "name":"Rayford Dorsey",
+    "phone":"(769) 465-5507",
+    "email":"alicia_hardy@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.66891997,31.17615415 ]
+    },
+    "properties": {
+    "name":"Marcelo Lang",
+    "phone":"(226) 218-0310",
+    "email":"rayford_dorsey@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.49249075,35.20669448 ]
+    },
+    "properties": {
+    "name":"Margaret Good",
+    "phone":"(868) 603-6583",
+    "email":"marcelo_lang@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.05421122,38.84386765 ]
+    },
+    "properties": {
+    "name":"Dylan Mcknight",
+    "phone":"(756) 739-9499",
+    "email":"margaret_good@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.32682402,43.51969826 ]
+    },
+    "properties": {
+    "name":"Edith Murphy",
+    "phone":"(768) 341-2185",
+    "email":"dylan_mcknight@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.35059077,38.71928358 ]
+    },
+    "properties": {
+    "name":"Pablo Lawrence",
+    "phone":"(774) 256-9993",
+    "email":"edith_murphy@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.8806843,21.26796512 ]
+    },
+    "properties": {
+    "name":"Brendon Mcdowell",
+    "phone":"(519) 694-1498",
+    "email":"pablo_lawrence@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.57605602,33.30842251 ]
+    },
+    "properties": {
+    "name":"Lorna Delacruz",
+    "phone":"(961) 317-7078",
+    "email":"brendon_mcdowell@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.16185968,25.75343435 ]
+    },
+    "properties": {
+    "name":"Reed Flowers",
+    "phone":"(367) 217-0779",
+    "email":"lorna_delacruz@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.36317908,31.0721789 ]
+    },
+    "properties": {
+    "name":"Marcy Trevino",
+    "phone":"(592) 323-1710",
+    "email":"reed_flowers@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.05081034,33.61596619 ]
+    },
+    "properties": {
+    "name":"Pam Mccann",
+    "phone":"(853) 956-3642",
+    "email":"marcy_trevino@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.77879188,28.46242545 ]
+    },
+    "properties": {
+    "name":"Althea Fitzpatrick",
+    "phone":"(202) 411-8159",
+    "email":"pam_mccann@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.56457212,29.53548855 ]
+    },
+    "properties": {
+    "name":"Jannie Osborn",
+    "phone":"(242) 602-9887",
+    "email":"althea_fitzpatrick@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.14867122,44.19754216 ]
+    },
+    "properties": {
+    "name":"Megan Pearson",
+    "phone":"(718) 245-6468",
+    "email":"jannie_osborn@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.87832938,37.00904407 ]
+    },
+    "properties": {
+    "name":"Ian Melendez",
+    "phone":"(496) 888-4414",
+    "email":"megan_pearson@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1929021,31.97822094 ]
+    },
+    "properties": {
+    "name":"Eldridge Livingston",
+    "phone":"(243) 353-0434",
+    "email":"ian_melendez@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.43808196,21.85708302 ]
+    },
+    "properties": {
+    "name":"Shelton Combs",
+    "phone":"(307) 505-5017",
+    "email":"eldridge_livingston@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.57170682,43.04102111 ]
+    },
+    "properties": {
+    "name":"Coleen Woodward",
+    "phone":"(678) 498-1000",
+    "email":"shelton_combs@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.77899934,35.18884448 ]
+    },
+    "properties": {
+    "name":"Emmitt Wood",
+    "phone":"(468) 853-4902",
+    "email":"coleen_woodward@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.08418694,37.31178174 ]
+    },
+    "properties": {
+    "name":"Roman Espinoza",
+    "phone":"(801) 491-5573",
+    "email":"emmitt_wood@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.17470545,38.92547112 ]
+    },
+    "properties": {
+    "name":"Daphne Cochran",
+    "phone":"(444) 225-9418",
+    "email":"roman_espinoza@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.1749229,32.69436534 ]
+    },
+    "properties": {
+    "name":"Elliott Ferguson",
+    "phone":"(690) 885-7827",
+    "email":"daphne_cochran@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.14582593,38.31567317 ]
+    },
+    "properties": {
+    "name":"Lucas Grant",
+    "phone":"(209) 799-3102",
+    "email":"elliott_ferguson@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.20930359,41.8341719 ]
+    },
+    "properties": {
+    "name":"Pierre Barajas",
+    "phone":"(899) 982-4113",
+    "email":"lucas_grant@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.57886463,23.92586614 ]
+    },
+    "properties": {
+    "name":"Kenneth Taylor",
+    "phone":"(894) 267-1356",
+    "email":"pierre_barajas@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.36876689,26.46333464 ]
+    },
+    "properties": {
+    "name":"Abraham Snow",
+    "phone":"(944) 552-8201",
+    "email":"kenneth_taylor@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.95149412,31.3911756 ]
+    },
+    "properties": {
+    "name":"Willy Kirby",
+    "phone":"(678) 408-9854",
+    "email":"abraham_snow@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.62025289,40.72023939 ]
+    },
+    "properties": {
+    "name":"Foster Rodgers",
+    "phone":"(624) 998-3385",
+    "email":"willy_kirby@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.42115304,35.87321748 ]
+    },
+    "properties": {
+    "name":"Augusta Lowery",
+    "phone":"(220) 318-7899",
+    "email":"foster_rodgers@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.39164305,47.12151817 ]
+    },
+    "properties": {
+    "name":"Nigel Fowler",
+    "phone":"(434) 549-2739",
+    "email":"augusta_lowery@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.72917462,39.8859829 ]
+    },
+    "properties": {
+    "name":"Margarita Robbins",
+    "phone":"(222) 552-7949",
+    "email":"nigel_fowler@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.36107026,29.47073187 ]
+    },
+    "properties": {
+    "name":"Domenic Fitzgerald",
+    "phone":"(457) 604-1037",
+    "email":"margarita_robbins@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.84043994,35.20842897 ]
+    },
+    "properties": {
+    "name":"Titus Rice",
+    "phone":"(363) 321-8791",
+    "email":"domenic_fitzgerald@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.26241171,27.73873374 ]
+    },
+    "properties": {
+    "name":"Mose Mcguire",
+    "phone":"(328) 519-5886",
+    "email":"titus_rice@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.82565372,36.31313169 ]
+    },
+    "properties": {
+    "name":"Jeannie Burgess",
+    "phone":"(456) 320-3681",
+    "email":"mose_mcguire@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.49635864,24.58172457 ]
+    },
+    "properties": {
+    "name":"Ellsworth Hebert",
+    "phone":"(930) 496-1513",
+    "email":"jeannie_burgess@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.05446165,37.59418199 ]
+    },
+    "properties": {
+    "name":"Hope Collins",
+    "phone":"(608) 901-1081",
+    "email":"ellsworth_hebert@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.23896821,39.03217987 ]
+    },
+    "properties": {
+    "name":"Lena Becker",
+    "phone":"(968) 313-2734",
+    "email":"hope_collins@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.20301998,33.58145243 ]
+    },
+    "properties": {
+    "name":"Karla Walker",
+    "phone":"(938) 244-9710",
+    "email":"lena_becker@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.86376438,34.41029235 ]
+    },
+    "properties": {
+    "name":"Elva Massey",
+    "phone":"(396) 473-6469",
+    "email":"karla_walker@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.50997691,21.48431607 ]
+    },
+    "properties": {
+    "name":"Hilario Wolfe",
+    "phone":"(361) 664-0032",
+    "email":"elva_massey@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.46330666,21.965165 ]
+    },
+    "properties": {
+    "name":"Celeste Chen",
+    "phone":"(274) 553-8719",
+    "email":"hilario_wolfe@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.47769462,38.66987325 ]
+    },
+    "properties": {
+    "name":"Kip Moreno",
+    "phone":"(990) 937-8256",
+    "email":"celeste_chen@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.25740137,37.25904788 ]
+    },
+    "properties": {
+    "name":"Robin Moyer",
+    "phone":"(818) 211-4120",
+    "email":"kip_moreno@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.36957543,29.19057548 ]
+    },
+    "properties": {
+    "name":"Dwight Whitney",
+    "phone":"(677) 219-6041",
+    "email":"robin_moyer@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.92608957,28.61048125 ]
+    },
+    "properties": {
+    "name":"Clement Jenkins",
+    "phone":"(787) 782-3124",
+    "email":"dwight_whitney@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.00818158,23.83368846 ]
+    },
+    "properties": {
+    "name":"Lydia Burch",
+    "phone":"(884) 329-6924",
+    "email":"clement_jenkins@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.32629832,22.93811699 ]
+    },
+    "properties": {
+    "name":"Dario Rubio",
+    "phone":"(947) 750-9310",
+    "email":"lydia_burch@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.41897973,24.61359376 ]
+    },
+    "properties": {
+    "name":"Roy Montes",
+    "phone":"(207) 360-0364",
+    "email":"dario_rubio@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.37122697,21.44053906 ]
+    },
+    "properties": {
+    "name":"Graig Lowe",
+    "phone":"(681) 923-0893",
+    "email":"roy_montes@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.30016274,42.16115727 ]
+    },
+    "properties": {
+    "name":"Hiram Dominguez",
+    "phone":"(807) 713-3008",
+    "email":"graig_lowe@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.82264892,25.86724232 ]
+    },
+    "properties": {
+    "name":"Myles Baldwin",
+    "phone":"(917) 786-2085",
+    "email":"hiram_dominguez@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.03563626,29.79117426 ]
+    },
+    "properties": {
+    "name":"Aimee Mcmahon",
+    "phone":"(862) 291-0703",
+    "email":"myles_baldwin@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.17606767,47.11254636 ]
+    },
+    "properties": {
+    "name":"Augustus Ellison",
+    "phone":"(382) 905-2354",
+    "email":"aimee_mcmahon@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.41443254,42.59996372 ]
+    },
+    "properties": {
+    "name":"Loyd Vargas",
+    "phone":"(607) 311-9456",
+    "email":"augustus_ellison@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.83562953,38.8206618 ]
+    },
+    "properties": {
+    "name":"Monte Short",
+    "phone":"(544) 333-6005",
+    "email":"loyd_vargas@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.35194699,30.91467798 ]
+    },
+    "properties": {
+    "name":"Ali Dunlap",
+    "phone":"(509) 720-3824",
+    "email":"monte_short@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.37231316,40.06245523 ]
+    },
+    "properties": {
+    "name":"Paige Cohen",
+    "phone":"(214) 543-0286",
+    "email":"ali_dunlap@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.86182976,27.08082265 ]
+    },
+    "properties": {
+    "name":"Maryellen Jennings",
+    "phone":"(229) 891-3356",
+    "email":"paige_cohen@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.06711054,22.65143014 ]
+    },
+    "properties": {
+    "name":"Wade Bond",
+    "phone":"(753) 917-9747",
+    "email":"maryellen_jennings@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.88474632,25.0505448 ]
+    },
+    "properties": {
+    "name":"Britt Curry",
+    "phone":"(921) 859-7651",
+    "email":"wade_bond@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.49757544,42.26105953 ]
+    },
+    "properties": {
+    "name":"Lavern Acosta",
+    "phone":"(306) 239-1594",
+    "email":"britt_curry@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.45288416,36.47258977 ]
+    },
+    "properties": {
+    "name":"Joyce Ho",
+    "phone":"(202) 601-7900",
+    "email":"lavern_acosta@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.25089279,31.85583162 ]
+    },
+    "properties": {
+    "name":"Jane Herrera",
+    "phone":"(709) 945-6981",
+    "email":"joyce_ho@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.88684271,35.7799402 ]
+    },
+    "properties": {
+    "name":"Kay Kirk",
+    "phone":"(878) 745-9452",
+    "email":"jane_herrera@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.95110848,35.50663678 ]
+    },
+    "properties": {
+    "name":"Dexter Olson",
+    "phone":"(595) 790-0979",
+    "email":"kay_kirk@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.38283251,24.50653776 ]
+    },
+    "properties": {
+    "name":"Weldon Braun",
+    "phone":"(358) 487-2381",
+    "email":"dexter_olson@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.6598259,43.82846537 ]
+    },
+    "properties": {
+    "name":"Celia Duran",
+    "phone":"(297) 546-4351",
+    "email":"weldon_braun@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.07852052,37.35567504 ]
+    },
+    "properties": {
+    "name":"Vito Hart",
+    "phone":"(208) 878-1515",
+    "email":"celia_duran@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.172055,30.568477 ]
+    },
+    "properties": {
+    "name":"Myra Garrett",
+    "phone":"(748) 858-6338",
+    "email":"vito_hart@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.32416662,26.49506374 ]
+    },
+    "properties": {
+    "name":"Barry Guerra",
+    "phone":"(444) 462-4182",
+    "email":"myra_garrett@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.89230902,43.93151139 ]
+    },
+    "properties": {
+    "name":"Nina Barnett",
+    "phone":"(702) 360-3812",
+    "email":"barry_guerra@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.63781912,26.14874653 ]
+    },
+    "properties": {
+    "name":"Ross Vang",
+    "phone":"(228) 788-5628",
+    "email":"nina_barnett@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.66712243,35.52880493 ]
+    },
+    "properties": {
+    "name":"Steve Merritt",
+    "phone":"(505) 934-6644",
+    "email":"ross_vang@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.4716372,33.63465061 ]
+    },
+    "properties": {
+    "name":"Sandra Estes",
+    "phone":"(237) 426-9487",
+    "email":"steve_merritt@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.80391517,41.23174678 ]
+    },
+    "properties": {
+    "name":"Sherry Lucero",
+    "phone":"(877) 555-6129",
+    "email":"sandra_estes@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.55938632,46.93069245 ]
+    },
+    "properties": {
+    "name":"Lynette Stevens",
+    "phone":"(508) 914-7495",
+    "email":"sherry_lucero@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.47726452,36.68193997 ]
+    },
+    "properties": {
+    "name":"Dorsey Dudley",
+    "phone":"(621) 442-0565",
+    "email":"lynette_stevens@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.10584706,30.46130946 ]
+    },
+    "properties": {
+    "name":"Cesar Vaughn",
+    "phone":"(202) 301-6937",
+    "email":"dorsey_dudley@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.03008612,39.94176627 ]
+    },
+    "properties": {
+    "name":"Karina Ramirez",
+    "phone":"(250) 999-0084",
+    "email":"cesar_vaughn@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.69342419,37.61126628 ]
+    },
+    "properties": {
+    "name":"Estela Bartlett",
+    "phone":"(488) 917-2902",
+    "email":"karina_ramirez@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.65096639,37.30976891 ]
+    },
+    "properties": {
+    "name":"Toby Downs",
+    "phone":"(944) 609-5935",
+    "email":"estela_bartlett@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.77774815,37.87411448 ]
+    },
+    "properties": {
+    "name":"Corine Gay",
+    "phone":"(391) 909-0457",
+    "email":"toby_downs@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.21948139,27.46908433 ]
+    },
+    "properties": {
+    "name":"Anita Lam",
+    "phone":"(629) 578-6018",
+    "email":"corine_gay@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.3627047,40.55197234 ]
+    },
+    "properties": {
+    "name":"Faith Simmons",
+    "phone":"(370) 598-6895",
+    "email":"anita_lam@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.62628268,35.14501376 ]
+    },
+    "properties": {
+    "name":"Bobbie Peck",
+    "phone":"(441) 296-1035",
+    "email":"faith_simmons@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.97841918,41.66683076 ]
+    },
+    "properties": {
+    "name":"Guadalupe Ritter",
+    "phone":"(418) 402-9223",
+    "email":"bobbie_peck@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.60741095,27.02123419 ]
+    },
+    "properties": {
+    "name":"Susie Lutz",
+    "phone":"(848) 792-2387",
+    "email":"guadalupe_ritter@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.76154204,23.57398922 ]
+    },
+    "properties": {
+    "name":"Madelyn Moss",
+    "phone":"(463) 396-9040",
+    "email":"susie_lutz@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.76046957,30.55791146 ]
+    },
+    "properties": {
+    "name":"Flora Mcpherson",
+    "phone":"(368) 930-2612",
+    "email":"madelyn_moss@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.57898362,39.2196504 ]
+    },
+    "properties": {
+    "name":"Delia Humphrey",
+    "phone":"(388) 808-4615",
+    "email":"flora_mcpherson@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.10041353,33.11494467 ]
+    },
+    "properties": {
+    "name":"Earlene Baxter",
+    "phone":"(992) 296-8011",
+    "email":"delia_humphrey@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.2531746,29.31853698 ]
+    },
+    "properties": {
+    "name":"Kellie Mcgrath",
+    "phone":"(592) 562-0690",
+    "email":"earlene_baxter@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.96389912,27.46139642 ]
+    },
+    "properties": {
+    "name":"Gerald Clark",
+    "phone":"(395) 260-7436",
+    "email":"kellie_mcgrath@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.87024356,45.05260401 ]
+    },
+    "properties": {
+    "name":"Abigail Rosario",
+    "phone":"(285) 656-5076",
+    "email":"gerald_clark@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.30679959,34.02224755 ]
+    },
+    "properties": {
+    "name":"Robt Anderson",
+    "phone":"(860) 722-5598",
+    "email":"abigail_rosario@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.85380035,44.73526652 ]
+    },
+    "properties": {
+    "name":"Keneth Douglas",
+    "phone":"(277) 878-9800",
+    "email":"robt_anderson@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.99376825,24.1818424 ]
+    },
+    "properties": {
+    "name":"Bettye Johnston",
+    "phone":"(625) 573-8204",
+    "email":"keneth_douglas@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.23724418,45.81259109 ]
+    },
+    "properties": {
+    "name":"Leslie Everett",
+    "phone":"(948) 878-5239",
+    "email":"bettye_johnston@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.2697043,29.07462313 ]
+    },
+    "properties": {
+    "name":"Irwin Davies",
+    "phone":"(730) 366-2245",
+    "email":"leslie_everett@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.8281184,48.26810236 ]
+    },
+    "properties": {
+    "name":"Hank Turner",
+    "phone":"(417) 468-4274",
+    "email":"irwin_davies@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.87342119,45.76996388 ]
+    },
+    "properties": {
+    "name":"Jodi House",
+    "phone":"(687) 611-6632",
+    "email":"hank_turner@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.50177166,44.59245507 ]
+    },
+    "properties": {
+    "name":"Melissa Farmer",
+    "phone":"(448) 863-8550",
+    "email":"jodi_house@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.02846372,22.93693406 ]
+    },
+    "properties": {
+    "name":"Kelly Garza",
+    "phone":"(906) 904-4672",
+    "email":"melissa_farmer@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.71254031,26.74253301 ]
+    },
+    "properties": {
+    "name":"Deana Boyle",
+    "phone":"(721) 666-3754",
+    "email":"kelly_garza@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.14387835,47.41345276 ]
+    },
+    "properties": {
+    "name":"Helga Robles",
+    "phone":"(237) 830-4949",
+    "email":"deana_boyle@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.26459147,29.59110958 ]
+    },
+    "properties": {
+    "name":"Angelica Wade",
+    "phone":"(516) 820-1017",
+    "email":"helga_robles@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.89770447,33.55616815 ]
+    },
+    "properties": {
+    "name":"Bonnie Glenn",
+    "phone":"(759) 394-7570",
+    "email":"angelica_wade@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.55044096,44.55289458 ]
+    },
+    "properties": {
+    "name":"Brandon Spears",
+    "phone":"(600) 420-5726",
+    "email":"bonnie_glenn@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.35397955,38.05610308 ]
+    },
+    "properties": {
+    "name":"Daryl Choi",
+    "phone":"(337) 944-9355",
+    "email":"brandon_spears@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.23038268,44.67187783 ]
+    },
+    "properties": {
+    "name":"Sylvester Harvey",
+    "phone":"(605) 269-6071",
+    "email":"daryl_choi@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.75636343,32.32733107 ]
+    },
+    "properties": {
+    "name":"Clay Costa",
+    "phone":"(286) 909-3012",
+    "email":"sylvester_harvey@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.81916582,23.69531993 ]
+    },
+    "properties": {
+    "name":"Hattie Durham",
+    "phone":"(787) 868-3988",
+    "email":"clay_costa@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.61287082,33.94547224 ]
+    },
+    "properties": {
+    "name":"Lino Barron",
+    "phone":"(503) 904-8298",
+    "email":"hattie_durham@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.44791105,45.25006522 ]
+    },
+    "properties": {
+    "name":"Tanner Owens",
+    "phone":"(683) 946-9967",
+    "email":"lino_barron@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.3619498,26.09542162 ]
+    },
+    "properties": {
+    "name":"Son Ford",
+    "phone":"(531) 735-7529",
+    "email":"tanner_owens@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.97570186,21.64185002 ]
+    },
+    "properties": {
+    "name":"Essie Franco",
+    "phone":"(757) 865-5700",
+    "email":"son_ford@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.4531379,36.79645553 ]
+    },
+    "properties": {
+    "name":"Taylor Banks",
+    "phone":"(530) 321-8608",
+    "email":"essie_franco@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.27013972,25.96704349 ]
+    },
+    "properties": {
+    "name":"Glen Armstrong",
+    "phone":"(464) 328-6805",
+    "email":"taylor_banks@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.94685754,36.62582951 ]
+    },
+    "properties": {
+    "name":"Louisa Guzman",
+    "phone":"(486) 639-8369",
+    "email":"glen_armstrong@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.33462905,42.3459268 ]
+    },
+    "properties": {
+    "name":"Isidro Archer",
+    "phone":"(395) 968-7010",
+    "email":"louisa_guzman@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.64427887,33.73471343 ]
+    },
+    "properties": {
+    "name":"Felton Barker",
+    "phone":"(258) 288-1181",
+    "email":"isidro_archer@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.73388177,37.83503359 ]
+    },
+    "properties": {
+    "name":"Norbert Wilkinson",
+    "phone":"(391) 865-8972",
+    "email":"felton_barker@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.24951058,32.03126422 ]
+    },
+    "properties": {
+    "name":"Tiffany Christensen",
+    "phone":"(972) 848-6857",
+    "email":"norbert_wilkinson@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.73106423,31.53612023 ]
+    },
+    "properties": {
+    "name":"Valentin Schmitt",
+    "phone":"(848) 457-5651",
+    "email":"tiffany_christensen@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.9452138,36.64473444 ]
+    },
+    "properties": {
+    "name":"Annette Barrera",
+    "phone":"(909) 544-0907",
+    "email":"valentin_schmitt@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.90213864,38.10556584 ]
+    },
+    "properties": {
+    "name":"Chung Carlson",
+    "phone":"(482) 808-7112",
+    "email":"annette_barrera@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.23445096,46.7737386 ]
+    },
+    "properties": {
+    "name":"Fletcher Murillo",
+    "phone":"(341) 479-6083",
+    "email":"chung_carlson@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.21078034,25.57132609 ]
+    },
+    "properties": {
+    "name":"Neva Brown",
+    "phone":"(540) 220-3651",
+    "email":"fletcher_murillo@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.62563238,31.82317956 ]
+    },
+    "properties": {
+    "name":"Elden Padilla",
+    "phone":"(596) 778-7610",
+    "email":"neva_brown@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.17296475,44.18059464 ]
+    },
+    "properties": {
+    "name":"Chong Berger",
+    "phone":"(873) 673-9872",
+    "email":"elden_padilla@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.59331688,33.39592055 ]
+    },
+    "properties": {
+    "name":"Refugio Palmer",
+    "phone":"(481) 919-9938",
+    "email":"chong_berger@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.37519061,40.37620167 ]
+    },
+    "properties": {
+    "name":"Latoya Anthony",
+    "phone":"(988) 237-8864",
+    "email":"refugio_palmer@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.90006333,36.68337152 ]
+    },
+    "properties": {
+    "name":"Jeanine Moses",
+    "phone":"(610) 374-0348",
+    "email":"latoya_anthony@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.67152591,43.87340091 ]
+    },
+    "properties": {
+    "name":"Elena Carroll",
+    "phone":"(567) 810-3758",
+    "email":"jeanine_moses@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.76750709,32.63047693 ]
+    },
+    "properties": {
+    "name":"Marisa Perry",
+    "phone":"(613) 638-6120",
+    "email":"elena_carroll@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.85043772,23.74025068 ]
+    },
+    "properties": {
+    "name":"Lamar Valdez",
+    "phone":"(218) 776-9687",
+    "email":"marisa_perry@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.73389427,44.09571003 ]
+    },
+    "properties": {
+    "name":"Josefa Obrien",
+    "phone":"(357) 867-2359",
+    "email":"lamar_valdez@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.00242776,23.23356561 ]
+    },
+    "properties": {
+    "name":"Daron Ross",
+    "phone":"(656) 774-3856",
+    "email":"josefa_obrien@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.33626392,36.54260761 ]
+    },
+    "properties": {
+    "name":"Charlie Craig",
+    "phone":"(849) 418-1411",
+    "email":"daron_ross@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.78992952,43.99291806 ]
+    },
+    "properties": {
+    "name":"Tammy Manning",
+    "phone":"(995) 887-1186",
+    "email":"charlie_craig@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 56.2737295,37.76690843 ]
+    },
+    "properties": {
+    "name":"Alton Olsen",
+    "phone":"(931) 389-6667",
+    "email":"tammy_manning@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.16564281,28.27063356 ]
+    },
+    "properties": {
+    "name":"Sophia George",
+    "phone":"(955) 981-5654",
+    "email":"alton_olsen@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.13508585,29.56997552 ]
+    },
+    "properties": {
+    "name":"Janell Hamilton",
+    "phone":"(280) 567-8095",
+    "email":"sophia_george@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.42854384,40.85314861 ]
+    },
+    "properties": {
+    "name":"Filiberto Ashley",
+    "phone":"(802) 465-0359",
+    "email":"janell_hamilton@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.89398956,34.02377488 ]
+    },
+    "properties": {
+    "name":"Carter Spencer",
+    "phone":"(965) 437-9249",
+    "email":"filiberto_ashley@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.18577213,36.03528376 ]
+    },
+    "properties": {
+    "name":"Rosemarie Dalton",
+    "phone":"(760) 550-0554",
+    "email":"carter_spencer@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.75524909,21.55967715 ]
+    },
+    "properties": {
+    "name":"Carmella Holmes",
+    "phone":"(568) 577-8615",
+    "email":"rosemarie_dalton@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.9796212,25.71521082 ]
+    },
+    "properties": {
+    "name":"Jo Little",
+    "phone":"(476) 315-3125",
+    "email":"carmella_holmes@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.90028414,38.56105878 ]
+    },
+    "properties": {
+    "name":"Alphonso Ali",
+    "phone":"(495) 403-7234",
+    "email":"jo_little@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.86879392,46.61538806 ]
+    },
+    "properties": {
+    "name":"Fran Henson",
+    "phone":"(971) 700-5531",
+    "email":"alphonso_ali@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.70864636,26.13763471 ]
+    },
+    "properties": {
+    "name":"Roberto Nichols",
+    "phone":"(246) 871-8169",
+    "email":"fran_henson@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.1108057,44.83135543 ]
+    },
+    "properties": {
+    "name":"Naomi Esparza",
+    "phone":"(292) 428-3789",
+    "email":"roberto_nichols@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 56.68541136,36.62279665 ]
+    },
+    "properties": {
+    "name":"Emma Jefferson",
+    "phone":"(358) 940-6844",
+    "email":"naomi_esparza@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.29209136,35.81426199 ]
+    },
+    "properties": {
+    "name":"Lea Bowen",
+    "phone":"(921) 496-8431",
+    "email":"emma_jefferson@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.47359785,25.38490514 ]
+    },
+    "properties": {
+    "name":"Jayne Raymond",
+    "phone":"(990) 238-0112",
+    "email":"lea_bowen@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.50123535,23.19395961 ]
+    },
+    "properties": {
+    "name":"Roderick Allison",
+    "phone":"(601) 569-8731",
+    "email":"jayne_raymond@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.71795057,40.44427413 ]
+    },
+    "properties": {
+    "name":"Angela Oneal",
+    "phone":"(507) 458-9069",
+    "email":"roderick_allison@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.93918947,41.35877724 ]
+    },
+    "properties": {
+    "name":"Mattie Henderson",
+    "phone":"(647) 388-5777",
+    "email":"angela_oneal@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.33927221,35.50892807 ]
+    },
+    "properties": {
+    "name":"Ernesto Dodson",
+    "phone":"(415) 444-4561",
+    "email":"mattie_henderson@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.07773119,26.34341195 ]
+    },
+    "properties": {
+    "name":"Denny Burton",
+    "phone":"(661) 258-1719",
+    "email":"ernesto_dodson@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.82879629,26.03965236 ]
+    },
+    "properties": {
+    "name":"Ariel Cantu",
+    "phone":"(305) 610-6922",
+    "email":"denny_burton@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.17276131,36.66226537 ]
+    },
+    "properties": {
+    "name":"Freda Cruz",
+    "phone":"(811) 722-0104",
+    "email":"ariel_cantu@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.23486632,43.52052507 ]
+    },
+    "properties": {
+    "name":"Tamika Schultz",
+    "phone":"(392) 612-8292",
+    "email":"freda_cruz@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.75456461,42.9204394 ]
+    },
+    "properties": {
+    "name":"Hallie Riley",
+    "phone":"(221) 417-0149",
+    "email":"tamika_schultz@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.01708567,35.16890402 ]
+    },
+    "properties": {
+    "name":"Stefan Levine",
+    "phone":"(579) 998-5953",
+    "email":"hallie_riley@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.34677226,29.56459116 ]
+    },
+    "properties": {
+    "name":"Garland Wu",
+    "phone":"(911) 951-9516",
+    "email":"stefan_levine@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.89945382,36.30632791 ]
+    },
+    "properties": {
+    "name":"Jerrod Stuart",
+    "phone":"(457) 689-5087",
+    "email":"garland_wu@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.90163916,44.82612631 ]
+    },
+    "properties": {
+    "name":"Cara Zavala",
+    "phone":"(535) 783-2553",
+    "email":"jerrod_stuart@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.42377754,33.58988476 ]
+    },
+    "properties": {
+    "name":"Kathryn Ibarra",
+    "phone":"(224) 950-6310",
+    "email":"cara_zavala@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.57177804,33.24216468 ]
+    },
+    "properties": {
+    "name":"Franklyn Zuniga",
+    "phone":"(349) 798-9465",
+    "email":"kathryn_ibarra@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.54577547,31.44824873 ]
+    },
+    "properties": {
+    "name":"Efren Huber",
+    "phone":"(666) 207-3579",
+    "email":"franklyn_zuniga@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.1647417,31.94596872 ]
+    },
+    "properties": {
+    "name":"Louise Santos",
+    "phone":"(345) 528-4224",
+    "email":"efren_huber@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.05270685,28.64652496 ]
+    },
+    "properties": {
+    "name":"Edwina Hardin",
+    "phone":"(908) 844-6791",
+    "email":"louise_santos@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.04688061,33.04832301 ]
+    },
+    "properties": {
+    "name":"Autumn Watts",
+    "phone":"(923) 717-8380",
+    "email":"edwina_hardin@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.77003612,28.88830991 ]
+    },
+    "properties": {
+    "name":"Lakisha Wilson",
+    "phone":"(861) 501-0412",
+    "email":"autumn_watts@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.02282871,26.64909221 ]
+    },
+    "properties": {
+    "name":"Myrna Henry",
+    "phone":"(757) 220-0875",
+    "email":"lakisha_wilson@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.86623508,35.33878512 ]
+    },
+    "properties": {
+    "name":"Jenna Terry",
+    "phone":"(348) 346-3431",
+    "email":"myrna_henry@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.62418059,42.61538406 ]
+    },
+    "properties": {
+    "name":"Charlene Marks",
+    "phone":"(656) 524-6789",
+    "email":"jenna_terry@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.96907752,40.3145423 ]
+    },
+    "properties": {
+    "name":"Joe Glass",
+    "phone":"(505) 340-4466",
+    "email":"charlene_marks@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.2916152,26.88703674 ]
+    },
+    "properties": {
+    "name":"Vicente Conley",
+    "phone":"(502) 578-5604",
+    "email":"joe_glass@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.01608132,24.28947881 ]
+    },
+    "properties": {
+    "name":"Cletus Yates",
+    "phone":"(848) 380-5178",
+    "email":"vicente_conley@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.23791523,28.21283997 ]
+    },
+    "properties": {
+    "name":"Phyllis Hughes",
+    "phone":"(861) 680-2338",
+    "email":"cletus_yates@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.25695235,45.45336803 ]
+    },
+    "properties": {
+    "name":"Thaddeus Hawkins",
+    "phone":"(304) 658-5505",
+    "email":"phyllis_hughes@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.15526625,47.86576954 ]
+    },
+    "properties": {
+    "name":"Marlon Meadows",
+    "phone":"(691) 294-3487",
+    "email":"thaddeus_hawkins@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.93597288,42.24403748 ]
+    },
+    "properties": {
+    "name":"Juliette Grimes",
+    "phone":"(757) 705-3753",
+    "email":"marlon_meadows@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.04692712,35.02230562 ]
+    },
+    "properties": {
+    "name":"Deann Black",
+    "phone":"(923) 342-5548",
+    "email":"juliette_grimes@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.45166958,39.91759514 ]
+    },
+    "properties": {
+    "name":"Andres Duncan",
+    "phone":"(622) 806-6918",
+    "email":"deann_black@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.20342244,39.9202412 ]
+    },
+    "properties": {
+    "name":"Ashlee Pratt",
+    "phone":"(572) 549-5639",
+    "email":"andres_duncan@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 56.62126916,37.46651528 ]
+    },
+    "properties": {
+    "name":"Andreas Faulkner",
+    "phone":"(618) 366-3988",
+    "email":"ashlee_pratt@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.95452978,36.97582764 ]
+    },
+    "properties": {
+    "name":"Morris Irwin",
+    "phone":"(828) 415-2844",
+    "email":"andreas_faulkner@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.24694494,37.0798102 ]
+    },
+    "properties": {
+    "name":"Harry Yang",
+    "phone":"(540) 363-1429",
+    "email":"morris_irwin@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.3467251,43.09530973 ]
+    },
+    "properties": {
+    "name":"Reyna Burke",
+    "phone":"(965) 897-1654",
+    "email":"harry_yang@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.77445448,42.61390585 ]
+    },
+    "properties": {
+    "name":"Kristi Benton",
+    "phone":"(675) 920-3547",
+    "email":"reyna_burke@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.71295856,23.07564611 ]
+    },
+    "properties": {
+    "name":"Jared Bullock",
+    "phone":"(479) 970-3390",
+    "email":"kristi_benton@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.88444229,34.6948387 ]
+    },
+    "properties": {
+    "name":"Zack Roman",
+    "phone":"(647) 387-0911",
+    "email":"jared_bullock@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.51132976,29.47177615 ]
+    },
+    "properties": {
+    "name":"Jarrod Zamora",
+    "phone":"(412) 604-2250",
+    "email":"zack_roman@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.87727332,31.04635552 ]
+    },
+    "properties": {
+    "name":"Everett Hurst",
+    "phone":"(812) 680-5372",
+    "email":"jarrod_zamora@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.15494134,27.13932966 ]
+    },
+    "properties": {
+    "name":"Lawrence Holloway",
+    "phone":"(625) 870-5931",
+    "email":"everett_hurst@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.39522045,34.90803256 ]
+    },
+    "properties": {
+    "name":"Marc Curtis",
+    "phone":"(421) 971-3063",
+    "email":"lawrence_holloway@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.02385878,27.36034996 ]
+    },
+    "properties": {
+    "name":"Davis Carter",
+    "phone":"(928) 290-8640",
+    "email":"marc_curtis@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.28375931,28.16772807 ]
+    },
+    "properties": {
+    "name":"Jana Weiss",
+    "phone":"(426) 986-8231",
+    "email":"davis_carter@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.42364882,36.43411635 ]
+    },
+    "properties": {
+    "name":"Jan Walter",
+    "phone":"(645) 628-0646",
+    "email":"jana_weiss@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.05751686,41.96715953 ]
+    },
+    "properties": {
+    "name":"Addie Robinson",
+    "phone":"(926) 846-3889",
+    "email":"jan_walter@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.37830409,34.05421867 ]
+    },
+    "properties": {
+    "name":"Dionne Houston",
+    "phone":"(248) 405-5100",
+    "email":"addie_robinson@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.91451737,46.62176986 ]
+    },
+    "properties": {
+    "name":"Esmeralda Solomon",
+    "phone":"(910) 805-3763",
+    "email":"dionne_houston@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.39940938,33.0676206 ]
+    },
+    "properties": {
+    "name":"Silvia Gill",
+    "phone":"(344) 938-8964",
+    "email":"esmeralda_solomon@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7804896,32.0194439 ]
+    },
+    "properties": {
+    "name":"Angelo Simon",
+    "phone":"(529) 431-1361",
+    "email":"silvia_gill@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.1931931,33.07408154 ]
+    },
+    "properties": {
+    "name":"Maynard Kemp",
+    "phone":"(957) 530-2253",
+    "email":"angelo_simon@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.58292043,24.30263382 ]
+    },
+    "properties": {
+    "name":"Christine Preston",
+    "phone":"(685) 923-8018",
+    "email":"maynard_kemp@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.65704149,30.34470071 ]
+    },
+    "properties": {
+    "name":"Rosario Mejia",
+    "phone":"(809) 640-9762",
+    "email":"christine_preston@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.8594251,43.00927468 ]
+    },
+    "properties": {
+    "name":"Julio Erickson",
+    "phone":"(397) 769-4169",
+    "email":"rosario_mejia@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.51740149,22.49295431 ]
+    },
+    "properties": {
+    "name":"Rhea Krueger",
+    "phone":"(420) 412-9933",
+    "email":"julio_erickson@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 52.4174431,41.21563009 ]
+    },
+    "properties": {
+    "name":"Waldo Cross",
+    "phone":"(288) 872-8741",
+    "email":"rhea_krueger@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.58733863,34.96029787 ]
+    },
+    "properties": {
+    "name":"Rosanne Moran",
+    "phone":"(680) 786-4465",
+    "email":"waldo_cross@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.93643622,28.92786416 ]
+    },
+    "properties": {
+    "name":"Fredric Gould",
+    "phone":"(401) 471-5461",
+    "email":"rosanne_moran@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.37929525,35.64030182 ]
+    },
+    "properties": {
+    "name":"William Velez",
+    "phone":"(635) 525-5131",
+    "email":"fredric_gould@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.581228,30.57306672 ]
+    },
+    "properties": {
+    "name":"Buster Summers",
+    "phone":"(772) 553-7550",
+    "email":"william_velez@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.8873399,44.72452807 ]
+    },
+    "properties": {
+    "name":"Gena Galvan",
+    "phone":"(780) 373-7478",
+    "email":"buster_summers@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.67099043,45.64249431 ]
+    },
+    "properties": {
+    "name":"Santos Juarez",
+    "phone":"(313) 516-1578",
+    "email":"gena_galvan@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.19565436,38.54459519 ]
+    },
+    "properties": {
+    "name":"Joy Dickerson",
+    "phone":"(525) 586-9347",
+    "email":"santos_juarez@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.09303098,48.07264485 ]
+    },
+    "properties": {
+    "name":"Jamaal Bradford",
+    "phone":"(930) 605-7095",
+    "email":"joy_dickerson@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.5533456,45.97780262 ]
+    },
+    "properties": {
+    "name":"Leigh Prince",
+    "phone":"(682) 320-4923",
+    "email":"jamaal_bradford@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.76252378,41.69757349 ]
+    },
+    "properties": {
+    "name":"Eugenia Rodriguez",
+    "phone":"(449) 806-1220",
+    "email":"leigh_prince@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.51053856,25.65151778 ]
+    },
+    "properties": {
+    "name":"Samual Haas",
+    "phone":"(665) 639-4050",
+    "email":"eugenia_rodriguez@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.83383963,42.41735339 ]
+    },
+    "properties": {
+    "name":"Cathleen Kidd",
+    "phone":"(660) 626-7011",
+    "email":"samual_haas@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.51055426,38.04987232 ]
+    },
+    "properties": {
+    "name":"Deanna Bryan",
+    "phone":"(267) 315-1495",
+    "email":"cathleen_kidd@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.38510849,37.00604509 ]
+    },
+    "properties": {
+    "name":"Teri Hogan",
+    "phone":"(357) 905-9795",
+    "email":"deanna_bryan@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.56105233,38.20210322 ]
+    },
+    "properties": {
+    "name":"Edwin Walton",
+    "phone":"(951) 326-1014",
+    "email":"teri_hogan@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.21281864,22.92092884 ]
+    },
+    "properties": {
+    "name":"Cheri Flynn",
+    "phone":"(692) 827-5426",
+    "email":"edwin_walton@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.06703827,44.55687398 ]
+    },
+    "properties": {
+    "name":"Marcellus Levy",
+    "phone":"(691) 482-3778",
+    "email":"cheri_flynn@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.09198049,36.87021882 ]
+    },
+    "properties": {
+    "name":"Stella Norton",
+    "phone":"(339) 975-1908",
+    "email":"marcellus_levy@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.72263467,32.55754605 ]
+    },
+    "properties": {
+    "name":"Tobias Werner",
+    "phone":"(469) 935-4831",
+    "email":"stella_norton@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.95940225,40.01020405 ]
+    },
+    "properties": {
+    "name":"Keri Marshall",
+    "phone":"(590) 318-6688",
+    "email":"tobias_werner@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.24765268,34.1495569 ]
+    },
+    "properties": {
+    "name":"Susan Lynn",
+    "phone":"(430) 991-7392",
+    "email":"keri_marshall@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.23512623,26.84086321 ]
+    },
+    "properties": {
+    "name":"Jessica Morris",
+    "phone":"(563) 466-4828",
+    "email":"susan_lynn@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.79214198,43.45692898 ]
+    },
+    "properties": {
+    "name":"Janie Huerta",
+    "phone":"(865) 418-7345",
+    "email":"jessica_morris@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.87544138,43.1108408 ]
+    },
+    "properties": {
+    "name":"Danial Maynard",
+    "phone":"(313) 260-9581",
+    "email":"janie_huerta@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.17179449,30.03733094 ]
+    },
+    "properties": {
+    "name":"Derick White",
+    "phone":"(392) 914-9162",
+    "email":"danial_maynard@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.67085625,37.61071525 ]
+    },
+    "properties": {
+    "name":"Monique Boone",
+    "phone":"(451) 445-3038",
+    "email":"derick_white@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.44278717,27.47537508 ]
+    },
+    "properties": {
+    "name":"Guy Orozco",
+    "phone":"(574) 219-4501",
+    "email":"monique_boone@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.05776801,39.16802092 ]
+    },
+    "properties": {
+    "name":"Marguerite Leach",
+    "phone":"(221) 952-7564",
+    "email":"guy_orozco@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.83441718,41.15067556 ]
+    },
+    "properties": {
+    "name":"Gladys Christian",
+    "phone":"(306) 354-6086",
+    "email":"marguerite_leach@yahoo.com",
+    "offers":"offers_camp_coord"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.65064045,37.1354842 ]
+    },
+    "properties": {
+    "name":"Odessa Bishop",
+    "phone":"(459) 402-0841",
+    "email":"gladys_christian@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.69409101,41.20540351 ]
+    },
+    "properties": {
+    "name":"Wilburn Tyler",
+    "phone":"(774) 778-9385",
+    "email":"odessa_bishop@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.80373891,32.5110136 ]
+    },
+    "properties": {
+    "name":"Harrison Acevedo",
+    "phone":"(313) 732-4524",
+    "email":"wilburn_tyler@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.94242535,33.8664154 ]
+    },
+    "properties": {
+    "name":"Saundra Kaiser",
+    "phone":"(251) 894-4162",
+    "email":"harrison_acevedo@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.03028663,43.465572 ]
+    },
+    "properties": {
+    "name":"Ismael Brooks",
+    "phone":"(514) 712-9874",
+    "email":"saundra_kaiser@yahoo.com",
+    "offers":"offers_health"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.08021292,45.43982185 ]
+    },
+    "properties": {
+    "name":"Irene Mcintyre",
+    "phone":"(837) 489-6268",
+    "email":"ismael_brooks@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.80670718,46.78307746 ]
+    },
+    "properties": {
+    "name":"Seymour Washington",
+    "phone":"(413) 824-4564",
+    "email":"irene_mcintyre@yahoo.com",
+    "offers":"offers_food_security"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.83782986,40.83484791 ]
+    },
+    "properties": {
+    "name":"Marietta Graham",
+    "phone":"(748) 508-2846",
+    "email":"seymour_washington@yahoo.com",
+    "offers":"offers_emerg_shelter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.40797195,41.75133726 ]
+    },
+    "properties": {
+    "name":"Terrence Compton",
+    "phone":"(387) 863-4067",
+    "email":"marietta_graham@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.00428906,25.22119764 ]
+    },
+    "properties": {
+    "name":"Delmer Cunningham",
+    "phone":"(641) 282-5165",
+    "email":"terrence_compton@yahoo.com",
+    "offers":"offers_protection"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.32186618,30.78063522 ]
+    },
+    "properties": {
+    "name":"Curt Briggs",
+    "phone":"(242) 263-4538",
+    "email":"delmer_cunningham@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.98468802,29.67080163 ]
+    },
+    "properties": {
+    "name":"Marquis Vance",
+    "phone":"(688) 814-1106",
+    "email":"curt_briggs@yahoo.com",
+    "offers":"offers_education"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.45053756,40.03719107 ]
+    },
+    "properties": {
+    "name":"Leann Huang",
+    "phone":"(561) 769-6309",
+    "email":"marquis_vance@yahoo.com",
+    "offers":"offers_nutrition"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.26954033,45.67261696 ]
+    },
+    "properties": {
+    "name":"Jae Velasquez",
+    "phone":"(302) 271-4947",
+    "email":"leann_huang@yahoo.com",
+    "offers":"offers_water_hygiene"
+    }
+  }
+]
+}
